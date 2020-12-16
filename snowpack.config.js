@@ -13,6 +13,7 @@ module.exports = {
   },
   devOptions: {
     /* ... */
+    // hmrErrorOverlay: false
   },
   buildOptions: {
     /* ... */
